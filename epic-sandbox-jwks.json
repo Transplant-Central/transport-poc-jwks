@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "transport-poc-sandbox-2026-11",
+      "n": "0EohRrVRyd9hcEzN8h97eKLA-oQzY94BvicR1vSVm6TULSLTqgnPltSTO_hXmTY0fYLHJ2qMsTpYL2Ap7KC-Sy2cLHYXNqif1178xSGJfeUEXMvgYOSgop7zKgz-d23W17qswwNmRDPyAcTCIPBmfLiRPm3d8URsuNz4vKSNDXZuYsztAq-o6Hk0ulOwXeAHE5Nv7LAKZf-qEbfJRiX4i4KGobT9W_DopYBAhtxkvAL0F476ivTAvNrCc5VMw6hCrjIezwbTi1X4wg84N7V1LLJz9cVhRc4coPHlYeI_qY2jAivawsS6iDqw8df_nzs5ryyXE0JLtQU9uK0LAYw9z5Rx6B7TGHcS3akQ87Abx6guxjNJqjWZCHxOSOWbWZqBJSSKx2GAYoSlYfKYqC_7ODZOPi7QWbtGrjC1NYf_AnVpWFke6Q2d0rR05Anw5ZrWVYdmDPA1y19uqQfjxozW-jRjtkewUu2q78NO526-5LNFX_VB4PNJys5rqQSzpVMX",
+      "e": "AQAB"
+    }
+  ]
+}
